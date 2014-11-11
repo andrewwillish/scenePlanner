@@ -1,5 +1,6 @@
 __author__ = 'andrew.willis'
-
+#Scene Planner - VE Version
+#Andrew Willis 2014
 
 from PyQt4 import QtCore, QtGui, uic
 import sys,os
